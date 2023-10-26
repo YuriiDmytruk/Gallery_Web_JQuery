@@ -1,0 +1,22 @@
+.hide-scroll {
+    padding-right: 0px !important;
+    overflow-y: hidden !important;
+}
+
+.hover-card {
+    transition: all 1s;
+    box-shadow: 0px 0px 40px rgb(236, 231, 85)
+}
+
+.modal-backdrop {
+    background-color: rgba(0, 0, 0, .0001) !important;
+}
+
+.h {
+    height: 300px;
+}
+
+.picture {
+    width: 1000px;
+    height: 500px;
+}
